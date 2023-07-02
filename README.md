@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaniTheMentalBoomer and I go by the nickname of Janzi
-- 👀 I’m interested in Full Stack- & game programming and I enjoy doing front end developement
-- 🌱 I’m currently learning the key components of Full stack-programming + Python
+- 👀 I’m interested in Full Stack- & game programming and I enjoy doing frontend
+- 🌱 I’m currently learning the key components of Full stack-programming
 - 📫 How to reach me: You can find me from LinkedIn with a name of "Jani Järvi" if you have things to ask
 
 
